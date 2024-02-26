@@ -27,4 +27,4 @@ WEB-?
 <!-- - [ ] I certify that I have no other steps that need to take place before this PR is deployed -->
 <!-- - [ ] I do have other steps that need to be taken before this PR is deployed and they are as follows: -->
 
-[ ] I have not read this PR template and am trying to merge things I haven't fully thought about
+- [ ] I have not read this PR template and am trying to merge things I haven't fully thought about
