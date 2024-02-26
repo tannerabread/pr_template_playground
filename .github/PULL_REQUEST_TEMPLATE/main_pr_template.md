@@ -13,7 +13,6 @@ WEB-?
 
 
 ## Deployment
-### DbUp Scripts
 <!-- Check off the boxes for common pre/post deployment steps, if any -->
 <!-- If you do have changes to the common steps, replace with the PR for those -->
 - [ ] I certify that I do not have any DbUp Scripts associated with this PR
