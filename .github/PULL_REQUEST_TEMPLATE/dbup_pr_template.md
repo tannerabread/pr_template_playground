@@ -6,7 +6,9 @@ WEB-?
 
 ## DBs to Deploy
 <!-- List which db's this should be deployed to -->
+<!-- ignore-task-list-start -->
 - [ ] Dev - Web 1
 - [ ] Dev - Web 2
 - [ ] Dev - Web 3
-- [ ] Prod 
+- [ ] Prod
+<!-- ignore-task-list-end -->
