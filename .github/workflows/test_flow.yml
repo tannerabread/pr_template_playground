@@ -1,4 +1,4 @@
-name: Modified Test Workflow
+name: Modified Test Workflow 2 on Main
 
 on:
   push:
