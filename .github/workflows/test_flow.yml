@@ -1,0 +1,20 @@
+name: Test Workflow
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Allows manual triggering of the workflow from the GitHub UI
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Print a message
+        run: echo "This is a test workflow. It does nothing significant."
+
+      - name: Do nothing
+        run: echo "Still doing nothing here!"
